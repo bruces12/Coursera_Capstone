@@ -1,2 +1,2 @@
 # Coursera_Capstone
-this will mainly be sued for my coursera capstone
+this will mainly be used for my coursera capstone
